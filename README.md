@@ -1,6 +1,8 @@
 ## Register user
 POST
+
 /users
+
 Request body example:
 {
     “email”: “john@doe.com”,
